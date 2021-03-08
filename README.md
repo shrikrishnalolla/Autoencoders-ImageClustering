@@ -21,3 +21,6 @@ In order to incorporate randomness with backpropagation, a "reparameterization t
 ![](https://i.stack.imgur.com/d38DB.png)
 
 For clustering, K-means has been implemented.The results of K-means is not really satisfactory. The images are more or less evenly distributed with no real majority in the cluster(>50% of the cluster size).There are a few classes that have not been represented.Perhaps a more robust clustering algorithm for images might be needed.There is a major scope for improvement.
+
+
+NOTE: If you are unable to open the notebooks on GitHub, use [nbviewer](https://nbviewer.jupyter.org/) to view them. Copy paste the link of the notebook in the field provided by the website. 
