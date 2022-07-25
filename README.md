@@ -1,6 +1,6 @@
 # Image Clustering using Autoencoders
 
-The project attempts to perform image clustering on CIFAR-10 dataset. CIFAR-10 dataset contains 60000 images (50000 train and 10000 test) classified into 10 categories - airplane ,automobile ,bird ,cat ,deer ,dog ,frog ,horse, ship or truck.
+The project attempts to perform image clustering on CIFAR-10 dataset. CIFAR-10 dataset contains 60000 images (50000 train and 10000 test) classified into 10 categories - airplane, automobile, bird, cat, deer, dog, frog, horse, ship or truck.
 
 Image clustering is attempted by using latent space representations of the images from the autoencoder. 3 kinds of autoencoders have been implemented :
 
